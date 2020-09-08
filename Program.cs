@@ -14,6 +14,7 @@ namespace pr1_z1
         firstName = _firstName;
         lastName = _lastName;
         age = _age;
+
       }
       public override string ToString()
       {
